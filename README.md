@@ -1,4 +1,6 @@
 # tech-blog
+deployed app- https://laxsonii.github.io/Week14-Tech-Blog--MVC-/
+
 
 MVC concepts to create tech blog
 ![image](https://github.com/user-attachments/assets/260fcecb-c890-4afe-8285-96d9dc0771bb)
